@@ -2,19 +2,10 @@
 # NAME: Adewumi Nasirudeen Adeyinka
 # DEPARTMENT: Computer Science
 # APPLICATION NUMBER: PG202452612787
-# COURSE: Introduction to Object Oriented Programming
+# COURSE: CSC 803/ CSC 825
 # TOPIC: Demonstrating the Four Features of OOP in Python
 # DATE: 01/11/2025
-# --------------------------------------------------
-# PROGRAM TITLE: SIMPLE SCHOOL MANAGEMENT SYSTEM
-#
-# This program demonstrates:
-# - Encapsulation
-# - Abstraction
-# - Inheritance
-# - Polymorphism
-# by allowing users to register students and teachers.
-# --------------------------------------------------
+
 
 from abc import ABC, abstractmethod  # Used for abstraction
 
